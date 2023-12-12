@@ -2,7 +2,8 @@
 <h3 align="center">An undergraduate who enjoys trying new things and has a passion for technology and programming and currently active as a cloud computing cohot at Bangkit 2023.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Institut Teknologi Telkom Purwokerto**<br>- 🌱 I’m currently learning **Cloud Computing**<br>- 📫 How to reach me **agyl1restu@gmil.com**
+
+- 🔭 I’m currently studying on **Institut Teknologi Telkom Purwokerto**<br>- 🌱 I’m currently learning **Cloud Computing**<br>- 📫 How to reach me **agyl1restu@gmil.com**
 
 
 ## 🌐 Socials:
