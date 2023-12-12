@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently studying on **Institut Teknologi Telkom Purwokerto**<br>- 🌱 I’m currently learning **Cloud Computing**<br>- 📫 How to reach me **agyl1restu@gmil.com**
+- 🔭 I’m currently studying at **Institut Teknologi Telkom Purwokerto**<br>- 🌱 I’m currently learning **Cloud Computing**<br>- 📫 How to reach me **agyl1restu@gmil.com**
 
 
 ## 🌐 Socials:
