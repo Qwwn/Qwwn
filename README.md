@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agyl</h1>
 <h3 align="center">An undergraduate who enjoys trying new things and has a passion for technology and programming and currently active as a cloud computing cohot at Bangkit 2023.</h3>
 
-# 💫 About Me:
+# 💫 About Me
 
 -🔭 I’m currently studying at **Institut Teknologi Telkom Purwokerto**<br>- 🌱 I’m currently learning **Cloud Computing**<br>- 📫 How to reach me **agyl1restu@gmil.com**
 
